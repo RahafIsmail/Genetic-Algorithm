@@ -1,4 +1,4 @@
-//Find a soultion for Shifted Schwefel's Problem 1.2 by using the optimization techniques (Genetic Algorithm)
+//Find a soultion for Shifted Schwefel's Problem 1.2 by using the optimization technique (Genetic Algorithm)
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Random;
 
 
-public class optimization_ga {
+public class Genetic_Algorithm {
     
  public static double[] o={35.6267,-82.9123,-10.6423,-83.5815,83.1552,47.048,-89.4359,-27.4219,76.1448,-39.0595};
  public static double[][]pop=new double[200][10];
